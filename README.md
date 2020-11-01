@@ -10,6 +10,7 @@ We are trying to find the best neighborhood by rating each neghborhood in 3 cate
 
 # Links to Datasets Used
 Number of Trees: https://data.wprdc.org/dataset/city-trees/resource/1515a93c-73e3-4425-9b35-1cd11b2196da
+
 Cleanliness of Streets: https://data.wprdc.org/dataset/street-sweeping-routes/resource/a5f3ae45-0716-4652-a85c-a69424f2f4f7
 
 Amount of Police Incidents: https://data.wprdc.org/dataset/police-incident-blotter
